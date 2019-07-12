@@ -1,2 +1,0 @@
-# qSun
-my introduction
