@@ -31,6 +31,10 @@ table {
 	padding: 0;
 }
 
+.centeralign {
+	text-align: end;
+}
+
 #container {
 	background: grey;
 	width: 600px;
@@ -71,7 +75,6 @@ table {
 	padding: 0;
 	margin-left: 5px;
 }
-
 .bginfo ul {
 	margin: 10px 20px;
 	padding: 0;
