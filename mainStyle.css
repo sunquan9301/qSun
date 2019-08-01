@@ -3,9 +3,11 @@
 
 a:link, a:visited {
 	text-decoration: none;
-	color: #065388;
+	color: #071ac8;
 }
-
+.colorBlue{
+	color: #071ac8;
+}
 a:hover {
 	color: #990000;
 }
